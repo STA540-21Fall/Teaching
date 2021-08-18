@@ -20,8 +20,8 @@
 
 [Finished student projects]()
 
-----
 ##### Shortcuts: [Project 1](#project-1) | [Project 2](#project-2) | [Project 3](#project-3) | [Project 4](#project-4) | [Final Project](#final-project-individual)
+----
 
 ### Project 2
 
@@ -40,8 +40,9 @@
 
 [Finished student projects]()
 
-----
+
 ##### Shortcuts: [Project 1](#project-1) | [Project 2](#project-2) | [Project 3](#project-3) | [Project 4](#project-4) | [Final Project](#final-project-individual)
+----
 
 ### Project 3
 
@@ -60,8 +61,9 @@
 
 [Finished student projects]()
 
-----
 ##### Shortcuts: [Project 1](#project-1) | [Project 2](#project-2) | [Project 3](#project-3) | [Project 4](#project-4) | [Final Project](#final-project-individual)
+----
+
 
 ### Project 4
 
@@ -80,7 +82,9 @@
 
 [Finished student projects]()
 
+##### Shortcuts: [Project 1](#project-1) | [Project 2](#project-2) | [Project 3](#project-3) | [Project 4](#project-4) | [Final Project](#final-project-individual)
 ----
+
 ### Final Project (Individual)
 
 ([starter codes]())
