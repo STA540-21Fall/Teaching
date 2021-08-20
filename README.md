@@ -1,5 +1,5 @@
 # Duke University STA540: Case Study
-### Spring 2021 - Teaching Materials ([Syllabus](/CourseInfo/Syllabus.md))
+### Fall 2021 - Teaching Materials ([Syllabus](/CourseInfo/Syllabus.md))
 
 ##### Shortcuts: [Project 1](#project-1) | [Project 2](#project-2) | [Project 3](#project-3) | [Project 4](#project-4) | [Final Project](#final-project-individual)
 ----
