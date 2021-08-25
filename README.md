@@ -5,8 +5,6 @@
 ----
 ### Project 1
 
-([starter codes]())
-
 #### Week 1 (Aug 26)
 
 
@@ -24,8 +22,6 @@
 ----
 
 ### Project 2
-
-([starter codes]())
 
 #### Week 4 (Sep 16)
 
@@ -46,8 +42,6 @@
 
 ### Project 3
 
-([starter codes]())
-
 #### Week 7 (Oct 7)
 
 
@@ -67,8 +61,6 @@
 
 ### Project 4
 
-([starter codes]())
-
 #### Week 10 (Oct 28)
 
 
@@ -86,8 +78,6 @@
 ----
 
 ### Final Project (Individual)
-
-([starter codes]())
 
 #### TBD
 
