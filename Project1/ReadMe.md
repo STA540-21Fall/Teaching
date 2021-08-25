@@ -34,7 +34,7 @@ proj/
 
 - The `doc` directory contains the report or presentation files. It can have subfolders.
 
-- The `lib` directory contains files with function definitions. If you might need to write a helper function that is used through your analysis, this is a good place where the function should go. However, no functions should be called and executed here - they are only defined here.
+- The `lib` directory contains files with function definitions. If you might need to write a helper function that is used through your analysis, this is a good place where the function should go. However, no functions should be called and executed here - they should only be defined here.
 
 - The `output` directory contains analysis output, processed datasets, logs, or other processed things.
 
