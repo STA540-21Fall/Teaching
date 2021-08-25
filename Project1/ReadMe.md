@@ -26,7 +26,7 @@ proj/
 ```
 
 - The `app` directory contains the app files for the Shiny app.
-  - `ui.R` and `server.R` are two key components for the Shiny App;
+  - `ui.R` and `server.R` are two key components for the Shiny App (or use a single `app.R` which includes both parts);
   - `global.R` is used to preprocess the data and define functions that used in `server.R`;
   - `output` folder contains the data used for deployment
 
