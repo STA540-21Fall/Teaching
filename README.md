@@ -5,15 +5,23 @@
 ----
 ### Project 1
 
-#### Week 1 (Aug 26)
+#### Week 1 (Aug 26): Study & Planning
 
+- Read project discription, identify potential topics of interest.
+- Discuss as a team about the topics (interest, difficulty, data accessibility, etc).
+- Collect and tidy data that might be needed for your topic.
 
+#### Week 2 (Sep 2) Design & Development
 
-#### Week 2 (Sep 2)
+- Build statistical models to get insight and findings that you want to present.
+- Learn about R shiny and start with simple projects.
+- Design the visuals for R shiny app - how the design would be attractive and useful to assist your presentation?
+- While you are working on statistical models, you might start programming for R shiny using fake/simulated data.
 
+#### Week 3 (Sep 9) Implementation & Presentation
 
-
-#### Week 3 (Sep 9)
+- Finalize the R shiny app and polish your report.
+- Prepare to present in class.
 
 
 [Finished student projects]()
