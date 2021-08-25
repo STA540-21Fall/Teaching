@@ -51,7 +51,7 @@ proj/
   - Learn about R shiny and start with simple projects.
   - Design the visuals for R shiny app - how the design would be attractive and useful to assist your presentation?
   - While you are working on statistical models, you might start programming for R shiny using fake/simulated data.
-- Week 3: Implementation & Present
+- Week 3: Implementation & Presentation
   - Finalize the R shiny app and polish your report.
   - Prepare to present in class.
 
