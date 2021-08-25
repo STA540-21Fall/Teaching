@@ -27,8 +27,8 @@ proj/
 
 - The `app` directory contains the app files for the Shiny app.
   - `ui.R` and `server.R` are two key components for the Shiny App (or use a single `app.R` which includes both parts);
-  - `global.R` is used to preprocess the data and define functions that used in `server.R`;
-  - `output` folder contains the data used for deployment
+  - `global.R` is used to preprocess the data and define functions that are used in `server.R`;
+  - `data` folder contains the data used for deployment
 
 - The `data` directory contains data used in the analysis. This is treated as read only; in paricular the R/python files are never allowed to write to the files in here. Depending on the project, these might be csv files, a database, and the directory itself may have subdirectories.
 
