@@ -5,7 +5,7 @@
 ----
 ### Project 1
 
-#### Week 1 (Aug 26): Study & Planning
+#### Week 1 (Aug 26): Study & Planning ([Lecture](/Lectures/Lecture%201.pdf))
 
 - Read project discription, identify potential topics of interest.
 - Discuss as a team about the topics (interest, difficulty, data accessibility, etc).
