@@ -57,9 +57,8 @@ proj/
 ## Suggested Workflow & Timeline
 
 - Week 1 & 2: Classic Regression Models
-  - Build a vanilla model.
-  - Build a spatial model (i.e. CAR model).
-  - Feel free to incorporate any other data such as temporal information.
+  - Build a vanilla model. Feel free to incorporate any other data such as temporal information.
+  - Build a temporal or spatial or spatio-temporal model, e.g. a CAR model, a Bayesian state-space model, etc. The point is to implement some classical statistical model to incorporate spatial temporal information.
   - Only focus on RMSLE.
 - Week 3 & 4: Exploration of Predictive Models
   - Freely choose any model (including non-classic models) to seek accurate prediction.
