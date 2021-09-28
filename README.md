@@ -43,13 +43,28 @@
 
 #### Week 2 (Sep 23)
 
+- Build a statistical model to predict covid cases and death tolls for 50 states and D.C. from Sep 30 to Oct 6 (inclusive).
+- Prediction accuracy evaluated by Root Mean Square of Log Error and Weighted Pinball Loss.
+
+|         	        | Group 1 	        | Group 2 	      | Group 3 	        | Group 4 	        |
+|------------------ |------------------	|----------------	|-----------------	|------------------	|
+| RMSLE (cases)   	|                 	|                	|                  	|                   |
+| RMSLE (death)    	|                  	|                	|                 	|                   |
+| WPL (cases)   	  |                 	|                	|                  	|                   |
+| WPL (death)    	  |                  	|                	|                 	|                   |
 
 
-#### Week 3 (Oct 5)
+#### Week 3 (Oct 6)
 
+- Build a statistical model to predict covid cases and death tolls for 50 states and D.C. from Oct 12 to Oct 18 (inclusive).
+- Prediction accuracy evaluated by Root Mean Square of Log Error and Weighted Pinball Loss.
 
-
-#### Week 4 (Oct 12)
+|         	        | Group 1 	        | Group 2 	      | Group 3 	        | Group 4 	        |
+|------------------ |------------------	|----------------	|-----------------	|------------------	|
+| RMSLE (cases)   	|                 	|                	|                  	|                   |
+| RMSLE (death)    	|                  	|                	|                 	|                   |
+| WPL (cases)   	  |                 	|                	|                  	|                   |
+| WPL (death)    	  |                  	|                	|                 	|                   |
 
 
 [Finished student projects]()
