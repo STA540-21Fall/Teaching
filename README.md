@@ -77,14 +77,9 @@
 
 #### Week 1 (Oct 7)
 
-
-
-#### Week 2 (Oct 14)
-
-
-
-#### Week 3 (Oct 21)
-
+- Explore and analyze the above data to infer about the pattern of tree growth.
+- We may be interested in learning about both stand (population) level growth and individual level growth.
+- Spatial information is provided and is encouraged to be used in the analysis.
 
 [Finished student projects]()
 
