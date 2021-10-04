@@ -1,0 +1,5 @@
+## Data
+
+Tree tape data contains diameter measurement data for over 5000 trees obtained from two mapped stands in Coweeta Hydrologic Laboratory. The stands were established in 1991 for the purpose of studying forest dynamics. The measurements are made at breast height marked by a nail that holds a tag indicating the identifying tree number. Diameter censuses were conducted at intervals of one to four years starting in 1993. Each year, some trees died and were removed from the census, and some new trees were planted and added to the census, resulting in different numbers of trees measured in each census and different numbers of measurements for each tree. Each tree is indexed by a unique ID (ID), and the diameter of a given year xxxx is the variable (diamxxxx). The spatial information is given in the UTM coordinates: UTMx, UTMy.
+
+Weather data For each stand (plot: 118 and 218), three variables of yearly weather information are also available: annual precipitation (annualprec), average summer (Jun. - Sep.) Palmer Drought Severity Index (PDSI) (summerpdsi), and average winter (Jan. - Mar.) temperature (wintertemp).
