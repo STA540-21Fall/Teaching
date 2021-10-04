@@ -24,22 +24,47 @@
 - Prepare to present in class.
 
 
-[Finished student projects]()
+[Finished student projects](https://github.com/STA540-21Fall?q=Project1&type=&language=&sort=name)
 
 ##### Shortcuts: [Project 1](#project-1) | [Project 2](#project-2) | [Project 3](#project-3) | [Project 4](#project-4) | [Final Project](#final-project-individual)
 ----
 
 ### Project 2
 
-#### Week 4 (Sep 16)
+#### Week 1 (Sep 16)
+
+- Build a statistical model to predict covid cases and death tolls for 50 states and D.C. from Sep 23 to Sep 29 (inclusive).
+- Prediction accuracy evaluated by Root Mean Square of Log Error.
+
+|         	        | Group 1 	        | Group 2 	      | Group 3 	        | Group 4 	        |
+|------------------ |------------------	|----------------	|-----------------	|------------------	|
+| RMSLE (cases)   	| 19.892            | 1.549          	| 2.625            	| 12.447            |
+| RMSLE (death)    	| 5.275           	| 0.915          	| 1.959           	| 3.152             |
+
+#### Week 2 (Sep 23)
+
+- Build a statistical model to predict covid cases and death tolls for 50 states and D.C. from Sep 30 to Oct 6 (inclusive).
+- Prediction accuracy evaluated by Root Mean Square of Log Error and Weighted Pinball Loss.
+
+|         	        | Group 1 	        | Group 2 	      | Group 3 	        | Group 4 	        |
+|------------------ |------------------	|----------------	|-----------------	|------------------	|
+| RMSLE (cases)   	|                 	|                	|                  	|                   |
+| RMSLE (death)    	|                  	|                	|                 	|                   |
+| WPL (cases)   	  |                 	|                	|                  	|                   |
+| WPL (death)    	  |                  	|                	|                 	|                   |
 
 
+#### Week 3 (Oct 6)
 
-#### Week 5 (Sep 23)
+- Build a statistical model to predict covid cases and death tolls for 50 states and D.C. from Oct 12 to Oct 18 (inclusive).
+- Prediction accuracy evaluated by Root Mean Square of Log Error and Weighted Pinball Loss.
 
-
-
-#### Week 6 (Sep 30)
+|         	        | Group 1 	        | Group 2 	      | Group 3 	        | Group 4 	        |
+|------------------ |------------------	|----------------	|-----------------	|------------------	|
+| RMSLE (cases)   	|                 	|                	|                  	|                   |
+| RMSLE (death)    	|                  	|                	|                 	|                   |
+| WPL (cases)   	  |                 	|                	|                  	|                   |
+| WPL (death)    	  |                  	|                	|                 	|                   |
 
 
 [Finished student projects]()
@@ -50,15 +75,15 @@
 
 ### Project 3
 
-#### Week 7 (Oct 7)
+#### Week 1 (Oct 7)
 
 
 
-#### Week 8 (Oct 14)
+#### Week 2 (Oct 14)
 
 
 
-#### Week 9 (Oct 21)
+#### Week 3 (Oct 21)
 
 
 [Finished student projects]()
@@ -69,15 +94,15 @@
 
 ### Project 4
 
-#### Week 10 (Oct 28)
+#### Week 1 (Oct 28)
 
 
 
-#### Week 11 (Nov 4)
+#### Week 2 (Nov 4)
 
 
 
-#### Week 12 (Nov 11)
+#### Week 3 (Nov 11)
 
 
 [Finished student projects]()

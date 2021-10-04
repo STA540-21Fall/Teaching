@@ -57,12 +57,11 @@ proj/
 ## Suggested Workflow & Timeline
 
 - Week 1 & 2: Classic Regression Models
-  - Build a vanilla model.
-  - Build a spatial model (i.e. CAR model).
-  - Feel free to incorporate any other data such as temporal information.
+  - Freely choose any model (including non-classic models) to seek accurate prediction.
   - Only focus on RMSLE.
 - Week 3 & 4: Exploration of Predictive Models
-  - Freely choose any model (including non-classic models) to seek accurate prediction.
+  - Build a vanilla model. Feel free to incorporate any other data such as temporal information.
+  - Build a temporal or spatial or spatio-temporal model, e.g. a CAR model, a Bayesian state-space model, etc. The point is to implement some classical statistical model to incorporate spatial temporal information.
   - Your prediction should be leveraging both RMSLE and WPL.
 
 ------
@@ -99,10 +98,10 @@ For the first two weeks, you are only required to submit files for mean predicti
 
 | Due Date 	| Prediction Start 	| Prediction End 	| Mean Prediction 	| Quantile Prediction 	|
 |----------	|------------------	|----------------	|-----------------	|---------------------	|
-| 09/23    	| 09/24            	| 09/30          	| Yes             	| No                  	|
-| 09/30    	| 10/01            	| 10/07          	| Yes             	| No                  	|
-| 10/12    	| 10/13            	| 10/19          	| Yes             	| Yes                 	|
-| 10/19    	| 10/20            	| 10/26          	| Yes             	| Yes                 	|
+| 09/23    	| 09/23           	| 09/29          	| Yes             	| No                  	|
+| 09/30    	| 09/30            	| 10/06          	| Yes             	| No                  	|
+| 10/12    	| 10/12            	| 10/18          	| Yes             	| Yes                 	|
+| 10/19    	| 10/19            	| 10/25          	| Yes             	| Yes                 	|
 
   
 ### Reports
